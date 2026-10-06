@@ -21,13 +21,3 @@ People discover amazing songs from:
 LiveMusicShare brings that experience into a digital space.
 
 ---
-
-# Core Features (MVP)
-
-## 🎵 Live Listening Activity
-
-Users can share what they are currently listening to.
-
-Displayed anonymously:
-
-Example:
